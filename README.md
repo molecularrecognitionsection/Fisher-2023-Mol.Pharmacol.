@@ -7,4 +7,6 @@ This repository contains all relevant molecular modeling data reported and discu
 - Input files for MD simulations with ACEMD (both apo and holo systems)
 - MD trajectories (strided, aligned, wrapped, receptor and ligand only)
 - Cluster analyses performed on MD simulations with the TTCLUST program
+- MD-refined pose for LUF6000 within A3R allosteric binding site (.pdb)
+
 

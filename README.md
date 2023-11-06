@@ -5,4 +5,6 @@ This repository contains all relevant molecular modeling data reported and discu
 - human A3 adenosine receptor activate state models (homology model based on 7LD4 - Prime; de novo model - AlphaFold Multistate)
 - LUF6000 docking poses (Glide-SP)
 - Input files for MD simulations with ACEMD (both apo and holo systems)
+- MD trajectories (strided, aligned, wrapped, receptor and ligand only)
 - Cluster analyses performed on MD simulations with the TTCLUST program
+
